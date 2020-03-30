@@ -4,7 +4,7 @@ int main(){
 
   double area, raio;
 
-  printf("Digite um valor do raio: ");
+  printf("Digite o valor do raio: ");
   scanf("%lf", &raio);
 
   area = 3.14159 * (raio * raio);
